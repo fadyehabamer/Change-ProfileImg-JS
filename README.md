@@ -1,11 +1,13 @@
 # Change Profile Image 
 > Like FaceBook 😉👌
 using
+
 - HTML
+
 - CSS
     - Gradients
 - JS
- - Built-in JS functions
+    - Built-in JS functions
 
 ```javascript
 file.addEventListener("change", function() {
