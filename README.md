@@ -1,7 +1,5 @@
 # Change Profile Image 
-> Like FaceBook 😉👌
-using
-
+> Like FaceBook 😉👌 with 2 hours of search using
 - HTML
 - CSS
     - Gradients
