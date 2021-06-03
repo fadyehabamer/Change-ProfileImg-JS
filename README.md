@@ -3,7 +3,7 @@
 using
 - HTML
 - CSS
- - Gradients
+    - Gradients
 - JS
  - Built-in JS functions
 
